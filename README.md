@@ -12,7 +12,9 @@
 
   <h5>Proposal Capstone Plan FHI</h5> : [Proposal_CapstonProjekPlan.docx](https://github.com/ainnnw/Capstone-Project-FHI/files/10097610/Proposal_CapstonProjekPlan.docx)
 
-  
+ 
+![logo](https://user-images.githubusercontent.com/119150298/204122271-e469e095-ada3-41c5-a8de-1ab8b453995d.png)
+
 ![fhi-aboput](https://user-images.githubusercontent.com/95640666/204118993-c40cf3cc-285b-497e-95b4-25544ffa5269.PNG)
 
 
