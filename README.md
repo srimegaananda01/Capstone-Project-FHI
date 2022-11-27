@@ -10,6 +10,9 @@
 3.  	F478X0999 - Muhammad Ilham<br>
 4.    F489Y1013 - Sri Mega Ananda<br>
 
+  <h5>Proposal Capstone Plan FHI</h5> : [Proposal_CapstonProjekPlan.docx](https://github.com/ainnnw/Capstone-Project-FHI/files/10097610/Proposal_CapstonProjekPlan.docx)
+
+  
 ![fhi-aboput](https://user-images.githubusercontent.com/95640666/204118993-c40cf3cc-285b-497e-95b4-25544ffa5269.PNG)
 
 
