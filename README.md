@@ -10,5 +10,6 @@
 3.  	F478X0999 - Muhammad Ilham<br>
 4.    F489Y1013 - Sri Mega Ananda<br>
 
-!https://github.com/ainnnw/Capstone-Project-FHI/issues/1#issue-1465325525
+![fhi-aboput](https://user-images.githubusercontent.com/95640666/204118993-c40cf3cc-285b-497e-95b4-25544ffa5269.PNG)
+
 
