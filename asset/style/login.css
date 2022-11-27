@@ -1,0 +1,113 @@
+body{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.navbar{
+  background-color: white !important;
+}
+
+.navbar-brand span{
+  color: rgba(0, 198, 168, 0.992);
+}
+
+.judul {
+  margin-right: 10%;
+  font-family: 'Fredoka One', cursive;
+  font-size: 30px;
+  font-weight: 500;
+  color: rgba(0, 198, 168, 0.992);
+}
+
+.hero {
+  padding: 0 10% 0 5%;
+}
+.form-floating{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+input.form-control{
+  margin-left: 0;
+  width: 300px !important;
+  font-size: 20px;
+  
+}
+
+.card-login {
+  justify-content: space-between;
+  padding: 8% 8%;
+  background: linear-gradient(to bottom,#53B24D,#91CAAD, #FFFFFF);  
+  justify-content: center;
+}
+.card.col-6{
+  justify-content: center;
+}
+
+.login {
+  text-align: start;
+  margin: 10px;
+}
+
+.login h2 {
+  padding: 20px 0;
+  font-weight: bold;
+  text-align: center;
+}
+
+.login p {
+  text-align: center;
+  margin: 30px;
+  text-decoration: none;
+  color: #000;
+}
+
+.login a {
+  text-decoration: none;
+  color: rgba(0, 198, 168, 0.992);
+}
+
+.tombol button{
+  background-color: rgba(0, 198, 168, 0.992);
+  color: white;
+  font-size: 20px;
+}
+
+
+/* Register */
+.logo-register {
+  text-align: end;
+}
+
+.logo-register img {
+  width: 400px;
+}
+
+.card-register {
+  justify-content: space-between;
+  padding: 0 5%;
+}
+
+.register {
+  text-align: start;
+  margin: 10px;
+}
+
+.register h2 {
+  padding: 20px 0;
+  font-weight: bold;
+}
+
+.register p {
+  text-align: center;
+  margin: 30px;
+  text-decoration: none;
+  color: #000;
+}
+
+.register a {
+  text-decoration: none;
+  color: rgba(0, 198, 168, 0.992);
+}
+
